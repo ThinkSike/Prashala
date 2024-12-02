@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvCalendar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/calendar_view"
+        android:textSize="20sp"
+        android:layout_gravity="center" />
+
+    <!-- Add a calendar widget if needed -->
+    <TextView
+        android:id="@+id/Calendar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/winter_break_dec_25_jan_1"
+        android:textSize="20sp"
+        android:layout_gravity="center" />
+
+</LinearLayout>

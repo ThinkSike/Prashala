@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="user_name">User Name</string>
+    <string name="homework">Homework</string>
+    <string name="attendance">Attendance</string>
+    <string name="timetable">Timetable</string>
+    <string name="notice">Notice</string>
+    <string name="calendar">Calendar</string>
+    <string name="fee_status">Fee Status</string>
+    <string name="social_links">Social Links</string>
+    <string name="lesson_planning">Lesson Planning</string>
+    <string name="staff">Staff</string>
+    <string name="mr">Mr.</string>
+    <string name="Class">Class: -</string>
+    <string name="Homework">Homework</string>
+    <string name="your_attendance_details">Your Attendance Details</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="login">Login</string>
+    <string name="go_to_signup">Go to Signup</string>
+    <string name="register">Register</string>
+    <string name="homework_details">Homework Details</string>
+    <string name="calendar_view">Calendar View</string>
+    <string name="your_fee_details">Your Fee Details</string>
+    <string name="your_timetable">Your Timetable</string>
+    <string name="staff_details">Staff Details</string>
+    <string name="principal_dr_smith_n_nmath_teacher_mr_john">Principal: Dr. Smith, \n\nMath Teacher: Mr. John</string>
+    <string name="math_geometry_science_biology">Math: Geometry, Science: Biology</string>
+    <string name="follow_us_on_twitter">Follow us on Twitter!</string>
+    <string name="fees_due_10_000">Fees Due: ₹10,000</string>
+    <string name="winter_break_dec_25_jan_1">Winter Break: Dec 25 - Jan 1</string>
+    <string name="complete_math_worksheet_by_tomorrow">Complete Math Worksheet by Tomorrow</string>
+</resources>

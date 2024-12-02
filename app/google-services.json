@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158733778953",
+    "project_id": "prashala-747ab",
+    "storage_bucket": "prashala-747ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158733778953:android:33d8fc4359ad6f22f2f8d8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiwzwvZF_3P6piEy9wAhmLjd_UsH1UzTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
