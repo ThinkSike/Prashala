@@ -8,14 +8,18 @@
 
     <!-- Email Input -->
     <TextView
+        android:id="@+id/emailLabel"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:text="@string/enter_email" />
     <EditText
         android:id="@+id/etEmail"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="12dp"
+        android:hint="Enter Email"
         android:backgroundTint="@color/black"
+        android:labelFor="@id/emailLabel"
         android:inputType="textEmailAddress"
         android:padding="12dp" />
     <TextView
@@ -23,19 +27,26 @@
         android:layout_height="wrap_content"/>
 
     <!-- Password Input -->
+    <TextView
+        android:id="@+id/emailPass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enter_password" />
     <EditText
         android:id="@+id/etPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="12dp"
         android:backgroundTint="@color/black"
+        android:hint="Enter Password"
+        android:labelFor="@id/emailPass"
         android:inputType="textPassword"
         android:padding="12dp" />
 
     <!-- Login Button -->
     <Button
         android:id="@+id/btnLogin"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="12dp"
         android:backgroundTint="#673AB7"
@@ -44,7 +55,7 @@
     <!-- Signup Button -->
     <Button
         android:id="@+id/btnSignup"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#673AB7"
         android:text="@string/go_to_signup" />
