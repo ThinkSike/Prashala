@@ -45,9 +45,7 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
-        btnSignup.setOnClickListener(v ->
-        {
-            startActivity(new Intent(LoginActivity.this, SignupActivity.class));
-        });
+        btnSignup.setOnClickListener(v -> startActivity(new Intent(LoginActivity.this, SignupActivity.class)));
+
     }
 }
