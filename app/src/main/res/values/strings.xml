@@ -30,4 +30,7 @@
     <string name="fees_due_10_000">Fees Due: ₹10,000</string>
     <string name="winter_break_dec_25_jan_1">Winter Break: Dec 25 - Jan 1</string>
     <string name="complete_math_worksheet_by_tomorrow">Complete Math Worksheet by Tomorrow</string>
+    <string name="fees_due_0">Fees Due: ₹0</string>
+    <string name="attendance_0">Attendance: 0%</string>
+    <string name="notices">Notices</string>
 </resources>

@@ -46,14 +46,14 @@
             android:id="@+id/tvAttendance"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Attendance: 0%"
+            android:text="@string/attendance_0"
             android:textColor="@color/black" />
 
         <TextView
             android:id="@+id/tvFeesDue"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Fees Due: ₹0"
+            android:text="@string/fees_due_0"
             android:textColor="@color/black" />
     </LinearLayout>
 
@@ -116,21 +116,21 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_columnWeight="1"
-            android:text="Social Links" />
+            android:text="@string/social_links" />
 
         <Button
             android:id="@+id/btnLessonPlanning"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_columnWeight="1"
-            android:text="Lesson Planning" />
+            android:text="@string/lesson_planning" />
 
         <Button
             android:id="@+id/btnStaff"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_columnWeight="1"
-            android:text="Staff" />
+            android:text="@string/staff" />
 
     </GridLayout>
 </RelativeLayout>

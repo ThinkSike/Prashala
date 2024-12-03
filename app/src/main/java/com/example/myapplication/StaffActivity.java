@@ -12,8 +12,8 @@ public class StaffActivity extends AppCompatActivity {
         setContentView(R.layout.activity_staff);
 
         // Placeholder logic for staff information
-        TextView tvStaff = findViewById(R.id.tvStaff);
-        TextView tvStaffDetails = findViewById(R.id.tvStaffDetails);
+//        TextView tvStaff = findViewById(R.id.tvStaff);
+//        TextView tvStaffDetails = findViewById(R.id.tvStaffDetails);
         //tvStaffDetails.setText("Principal: Dr. Smith, Math Teacher: Mr. John");
 
     }

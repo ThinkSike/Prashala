@@ -10,9 +10,9 @@ public class HomeworkActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_homework);
-        TextView tvHomework = findViewById(R.id.tvHomework);
-        // Placeholder logic for homework
-        TextView tvHomeworkDetails = findViewById(R.id.tvHomeworkDetails);
+//        TextView tvHomework = findViewById(R.id.tvHomework);
+//        // Placeholder logic for homework
+//        TextView tvHomeworkDetails = findViewById(R.id.tvHomeworkDetails);
         //tvHomeworkDetails.setText("Complete Math Worksheet by Tomorrow");
     }
 }

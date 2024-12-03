@@ -10,9 +10,9 @@ public class SocialLinksActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_social_links);
-        TextView tvSocialLink = findViewById(R.id.tvSocialLink);
-        // Placeholder logic for social links
-        TextView tvSocialLinks = findViewById(R.id.tvSocialLinks);
+//        TextView tvSocialLink = findViewById(R.id.tvSocialLink);
+//        // Placeholder logic for social links
+//        TextView tvSocialLinks = findViewById(R.id.tvSocialLinks);
 //        tvSocialLinks.setText("Follow us on Twitter!");
     }
 }

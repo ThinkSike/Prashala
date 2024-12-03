@@ -12,8 +12,8 @@ public class CalendarActivity extends AppCompatActivity {
         setContentView(R.layout.activity_calendar);
 
         // Placeholder logic for calendar
-        TextView tvCalendar = findViewById(R.id.tvCalendar);
-        TextView Calendar = findViewById(R.id.Calendar);
+//        TextView tvCalendar = findViewById(R.id.tvCalendar);
+//        TextView Calendar = findViewById(R.id.Calendar);
         //Calendar.setText("Winter Break: Dec 25 - Jan 1");
     }
 }

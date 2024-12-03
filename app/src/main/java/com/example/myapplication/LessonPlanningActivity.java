@@ -12,8 +12,8 @@ public class LessonPlanningActivity extends AppCompatActivity {
         setContentView(R.layout.activity_lesson_planning);
 
         // Placeholder logic for lesson planning
-        TextView tvLessonPlanning = findViewById(R.id.tvLessonPlanning);
-       // tvLessonPlanning.setText("Math: Geometry, Science: Biology");
-        TextView tvLessons = findViewById(R.id.tvLessons);
+//        TextView tvLessonPlanning = findViewById(R.id.tvLessonPlanning);
+//         tvLessonPlanning.setText("Math: Geometry, Science: Biology");
+//        TextView tvLessons = findViewById(R.id.tvLessons);
     }
 }
